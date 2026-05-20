@@ -1,3 +1,19 @@
+# Restauración técnica del código
+
+Este repositorio es una copia de trabajo destinada a restaurar la ejecución técnica del proyecto original de tesis.
+El objetivo de esta restauración es hacer que el notebook principal vuelva a ejecutarse correctamente, sin actualizar datos, sin modificar la metodología, sin cambiar el modelo LSTM y sin alterar los resultados científicos originales.
+
+Archivo principal:
+`Portafolio_de_inversiones_vf.ipynb`
+
+Las instrucciones específicas para el trabajo con Codex están en:
+`CODEX_INSTRUCTIONS.md`
+
+La bitácora de cambios técnicos está en:
+`CHANGELOG_CODEX.md`
+
+---
+
 # 📈 Optimización de Portafolios de Inversión con IA
 
 Este repositorio contiene la implementación de un proyecto de optimización de portafolios de acciones, combinando **Redes Neuronales LSTM** y **Procesamiento de Lenguaje Natural (PLN)** para realizar predicciones financieras. El proyecto integra datos históricos, análisis de sentimientos y aprendizaje profundo para construir y optimizar un portafolio de inversión.
